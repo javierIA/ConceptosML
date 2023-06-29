@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: gaia
+theme: uncover
 author: Javier Flores 
 style: |
   h1 {
@@ -26,7 +26,7 @@ footer: "Introducción al Machine Learning"
 jpegQuality: 100
 paginate: true
 description: "Introducción al Machine Learning"
-color: #FFFFFF
+color: #FFFF
 
 
 
@@ -69,6 +69,9 @@ color: #FFFFFF
 
 # Tipos de Algoritmos de Machine Learning (2/2)
 - Reforzado: El algoritmo aprende a través de la experiencia, recibe recompensas que le indican si las acciones realizadas han sido correctas o no.
+
+---
+![bg left: 100% ](images/1.png)
 
 ---
 
@@ -121,13 +124,10 @@ color: #FFFFFF
 # Tipos de Datos (1/2)
 - Datos numéricos: Números continuos o discretos.
 - Datos ordinales: Variables en categorías ordenadas, la distancia entre dos categorías no se establece.
-
----
-
-# Tipos de Datos (2/2)
 - Datos categóricos: Variables en categorías no ordenadas.
 
 ---
+
 
 # Conclusión
 - El Machine Learning es una herramienta poderosa que permite a las computadoras aprender de los datos y mejorar su desempeño en tareas específicas.
@@ -139,5 +139,3 @@ color: #FFFFFF
 # Gracias por su atención!
 - ¿Preguntas?
 
----
-#
