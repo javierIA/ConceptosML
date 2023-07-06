@@ -62,6 +62,14 @@ El F1 Score es una medida que combina la precisión y la exhaustividad. Es la me
 `F1 = 2 * (Precision * Recall) / (Precision + Recall)`
 
 ---
+# Error Cuadrático Medio (MSE)
+
+
+Descripción del Error Cuadrático Medio
+El Error Cuadrático Medio (MSE) es una métrica común para evaluar modelos de regresión. Mide el promedio de los cuadrados de los errores, es decir, la diferencia cuadrada media entre los valores estimados y los valores reales.
+
+
+---
 
 # Ejemplo de Evaluación de un Modelo de Clasificación 🧪
 
