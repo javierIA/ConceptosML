@@ -62,7 +62,7 @@ El F1 Score es una medida que combina la precisión y la exhaustividad. Es la me
 `F1 = 2 * (Precision * Recall) / (Precision + Recall)`
 
 ---
-# Error Cuadrático Medio (MSE)
+#Error Cuadrático Medio (MSE)
 
 
 Descripción del Error Cuadrático Medio
@@ -80,8 +80,9 @@ El Error Cuadrático Medio (MSE) es una métrica común para evaluar modelos de 
 - Verdaderos Negativos (TN): 600 (El modelo correctamente identificó 600 correos electrónicos como no spam)
 - Falsos Positivos (FP): 50 (El modelo incorrectamente identificó 50 correos electrónicos como spam)
 - Falsos Negativos (FN): 150 (El modelo incorrectamente identificó 150 correos electrónicos como no spam)
-Accuracy (Precisión) 🎯
+
 ---
+# Accuracy (Precisión) 🎯
 Vamos a calcular la precisión de nuestro modelo usando la fórmula: Accuracy = (TP + TN) / (TP + TN + FP + FN)
 
 Accuracy = (200 + 600) / (200 + 600 + 50 + 150) = 800 / 1000 = 0.8 or 80%
