@@ -125,24 +125,6 @@ Ridge es una buena opción cuando todas las variables son importantes, mientras 
 
 # En resumen
 Ambos métodos son formas poderosas de regularización que pueden ser muy útiles en situaciones de multicolinealidad y cuando se quiere prevenir el overfitting. Es importante elegir el método correcto según el contexto y los datos disponibles.
----
----
-
-marp: true
-theme: gaia
-style: |
-  section {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    background-color: #f0f0f0;
-    color: #333;
-    font-size: 1.2em;
-  }
-  h1, h2 {
-    color: #008080;
-  }
 
 ---
 
