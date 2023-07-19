@@ -34,6 +34,9 @@ K-Nearest Neighbors (KNN) es un algoritmo de aprendizaje supervisado que se pued
 
 ---
 
+![bg = 60% ](https://miro.medium.com/v2/resize:fit:720/0*Rxd_UYjOPrK7_gk4)
+
+---
 # Medida de distancia en KNN
 
 La similitud entre los puntos se mide a menudo utilizando medidas de distancia, como la distancia euclídea, la distancia Manhattan, la distancia Minkowski, entre otras. 
@@ -43,6 +46,10 @@ La similitud entre los puntos se mide a menudo utilizando medidas de distancia, 
 # Eligiendo el valor de K
 
 El valor de K tiene un gran impacto en los resultados de KNN. Un K muy pequeño puede hacer que el modelo sea sensible al ruido y a los outliers, mientras que un K muy grande puede hacer que el modelo sea demasiado general.
+
+---
+
+![bg = 80% ](https://miro.medium.com/v2/resize:fit:720/0*kh-nHGVTxrpvVsjj)
 
 ---
 
@@ -72,7 +79,7 @@ El valor de K tiene un gran impacto en los resultados de KNN. Un K muy pequeño 
 
 KNN, o k-nearest neighbors, es un algoritmo simple que predice la etiqueta de un punto basado en las etiquetas de los 'k' puntos más cercanos.
 
-![KNN](https://miro.medium.com/max/1400/0*Sk18h9op6uK9EpT8.)
+![bg = 60% ](https://live.staticflickr.com/65535/47646856032_e693b87caa_b.jpg)
 
 ---
 
@@ -86,7 +93,7 @@ Imagina que estás en un partido de fútbol, pero no sabes a qué equipo apoya c
 
 La "cercanía" se calcula usando la "distancia". Cuanto menor sea la distancia entre dos puntos, más "cercanos" se consideran. Hay varias formas de calcular la distancia, pero las más comunes son la distancia euclídea (la línea recta entre dos puntos) y la distancia de Manhattan (como si caminaras por las calles de una ciudad).
 
-![Distancias](https://miro.medium.com/max/1200/1*2V1U8K3iWk9my0n_C0AiZQ.png)
+![Distancias](https://live.staticflickr.com/65535/40733598823_0eede41717_b.jpg)
 
 ---
 
